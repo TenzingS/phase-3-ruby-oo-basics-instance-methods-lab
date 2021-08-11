@@ -15,4 +15,3 @@ t.talk
 t.walk
 
 w = Person.new
-w.walk
